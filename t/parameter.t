@@ -501,7 +501,7 @@ GET /t
 [error]
 --- response_body
 match meta: metadata /name
-matched: {"_path":"/name/:name/id","name":"json%2fspace"}
+matched: {"_path":"/name/:name/id","name":"json%20space"}
 
 
 
